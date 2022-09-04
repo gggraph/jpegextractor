@@ -1,6 +1,6 @@
 ## JPEG Extractor
 
-Command-line software that can **extract any .jpeg found in a corrupted FAT32 device**. 
+Command-line software that can **extract .jpeg from a corrupted FAT32 device**. 
 
 There is probably existing software that can do this, but most are not free.
 
